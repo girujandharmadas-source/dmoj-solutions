@@ -1,6 +1,13 @@
 # DMOJ Solutions 🚀
 
-Solutions to competitive programming problems on [DMOJ: Modern Online Judge](https://dmoj.ca/) written in Python 3.
+[![DMOJ Profile](https://img.shields.io/badge/DMOJ-SAE2CATCH-3498db?style=flat-square)](https://dmoj.ca/user/SAE2CATCH)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-girujandharmadas--source-181717?style=flat-square&logo=github)](https://github.com/girujandharmadas-source)
+
+Solutions to competitive programming problems on [DMOJ: Modern Online Judge](https://dmoj.ca/) by [**SAE2CATCH**](https://dmoj.ca/user/SAE2CATCH), written in Python 3.
+
+👤 **DMOJ Handle:** [@SAE2CATCH](https://dmoj.ca/user/SAE2CATCH)
+
+---
 
 ## 📊 Summary
 
